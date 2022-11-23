@@ -31,11 +31,11 @@ void FindElementByPosition(int[,] array, int rows, int cols)
 {
     if (rows < array.GetLength(0) && cols < array.GetLength(1))
     {
-        Console.WriteLine($"Значение элемента на позиции [{rows}, {cols}]: {array[rows, cols]}");
+        Console.WriteLine($"Значение элемента на позиции [{rows+1}, {cols+1}]: {array[rows, cols]}");
     }
     else
     {
-        Console.WriteLine($"Числа с позицией [{rows}, {cols}] нет");
+        Console.WriteLine($"Числа с позицией [{rows+1}, {cols+1}] нет");
     }
 }
 
@@ -47,4 +47,7 @@ int positionElemCols = int.Parse(Console.ReadLine() ?? "0");
 
 int[,] massive = GetArrayRandom(4, 4);
 PrintArray(massive);
-FindElementByPosition(massive, positionElemRows, positionElemCols);
+FindElementByPosition(massive, positionElemRows-1, positionElemCols-1);
+
+// +1 и -1 я добавляла для того, чтобы пользователю было более понятно (т.е. он видит 1 столбец и считает его 1, а не 0 как компьютер).
+// Если это мешает, то можно просто убрать +1 и -1, тогда номера столбцов и строк будут идти не с 1, а с 0.
