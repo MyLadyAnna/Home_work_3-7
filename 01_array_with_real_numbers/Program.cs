@@ -31,5 +31,5 @@ Console.Write("Введите количество строк в массиве:
 int m = int.Parse(Console.ReadLine() ?? "0");
 Console.Write("Введите количество столбцов в массиве: ");
 int n = int.Parse(Console.ReadLine() ?? "0");
-double[,] array = GetArrayRandom(m, n);
-PrintArray(array);
+double[,] massive = GetArrayRandom(m, n);
+PrintArray(massive);
