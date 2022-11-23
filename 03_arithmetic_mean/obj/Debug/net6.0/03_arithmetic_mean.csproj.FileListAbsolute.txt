@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\bin\Debug\net6.0\03_arithmetic_mean.exe
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\bin\Debug\net6.0\03_arithmetic_mean.deps.json
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\bin\Debug\net6.0\03_arithmetic_mean.runtimeconfig.json
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\bin\Debug\net6.0\03_arithmetic_mean.dll
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\bin\Debug\net6.0\03_arithmetic_mean.pdb
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\obj\Debug\net6.0\03_arithmetic_mean.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\obj\Debug\net6.0\03_arithmetic_mean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\obj\Debug\net6.0\03_arithmetic_mean.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\obj\Debug\net6.0\03_arithmetic_mean.AssemblyInfo.cs
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\obj\Debug\net6.0\03_arithmetic_mean.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\obj\Debug\net6.0\03_arithmetic_mean.dll
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\obj\Debug\net6.0\refint\03_arithmetic_mean.dll
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\obj\Debug\net6.0\03_arithmetic_mean.pdb
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\obj\Debug\net6.0\03_arithmetic_mean.genruntimeconfig.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\03_arithmetic_mean\obj\Debug\net6.0\ref\03_arithmetic_mean.dll
