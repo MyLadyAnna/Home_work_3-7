@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\bin\Debug\net6.0\01_array_with_real_numbers.exe
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\bin\Debug\net6.0\01_array_with_real_numbers.deps.json
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\bin\Debug\net6.0\01_array_with_real_numbers.runtimeconfig.json
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\bin\Debug\net6.0\01_array_with_real_numbers.dll
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\bin\Debug\net6.0\01_array_with_real_numbers.pdb
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\obj\Debug\net6.0\01_array_with_real_numbers.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\obj\Debug\net6.0\01_array_with_real_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\obj\Debug\net6.0\01_array_with_real_numbers.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\obj\Debug\net6.0\01_array_with_real_numbers.AssemblyInfo.cs
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\obj\Debug\net6.0\01_array_with_real_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\obj\Debug\net6.0\01_array_with_real_numbers.dll
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\obj\Debug\net6.0\refint\01_array_with_real_numbers.dll
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\obj\Debug\net6.0\01_array_with_real_numbers.pdb
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\obj\Debug\net6.0\01_array_with_real_numbers.genruntimeconfig.cache
+C:\Users\Anna\Desktop\обучение\_семинары\3. Знакомство с языками програм\Home_work-7\01_array_with_real_numbers\obj\Debug\net6.0\ref\01_array_with_real_numbers.dll
