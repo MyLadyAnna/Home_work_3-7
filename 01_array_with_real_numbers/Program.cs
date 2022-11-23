@@ -26,6 +26,10 @@ void PrintArray(double[,] array)
     }
 }
 
-
-double[,] array = GetArrayRandom(3, 4);
+Console.Clear();
+Console.Write("Введите количество строк в массиве: ");
+int m = int.Parse(Console.ReadLine() ?? "0");
+Console.Write("Введите количество столбцов в массиве: ");
+int n = int.Parse(Console.ReadLine() ?? "0");
+double[,] array = GetArrayRandom(m, n);
 PrintArray(array);
