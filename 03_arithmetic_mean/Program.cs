@@ -35,7 +35,7 @@ void GetArithmeticMeanOfColumns(int[,] array)
         {
             arc += array[j, i];
         }
-        Console.WriteLine($"Среднее арифметическое {i + 1}-го столбца: {arc}");
+        Console.WriteLine($"Среднее арифметическое {i + 1}-го столбца: {arc}");     // чтобы в выводе не писало "0 столбец"
         arc = 0;
     }
 }
