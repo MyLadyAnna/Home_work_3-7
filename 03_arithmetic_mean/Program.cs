@@ -1,6 +1,6 @@
 ﻿// Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
 
-int[,] GetArrayRandom(int rows, int cols, int minValue = 0, int maxValue = 10)             
+int[,] GetArrayRandom(int rows, int cols, int minValue = 0, int maxValue = 10)
 {
     int[,] array = new int[rows, cols];
     var rnd = new Random();
@@ -26,16 +26,16 @@ void PrintArray(int[,] array)
     }
 }
 
-void GetArithmeticMeanOfColumns (int[,] array)
+void GetArithmeticMeanOfColumns(int[,] array)
 {
     int arc = 0;
     for (int i = 0; i < array.GetLength(1); i++)
     {
         for (int j = 0; j < array.GetLength(0); j++)
         {
-            arc +=array[j,i];
+            arc += array[j, i];
         }
-        Console.WriteLine($"Среднее арифметическое {i+1}-го столбца: {arc}");
+        Console.WriteLine($"Среднее арифметическое {i + 1}-го столбца: {arc}");
         arc = 0;
     }
 }
